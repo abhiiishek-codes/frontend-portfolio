@@ -1,5 +1,5 @@
 body{
-    font-family: Arial, sans-serif;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     margin: 40px;
     line-height: 1.6;
     background-color: #f9f9f9;
@@ -49,3 +49,4 @@ h2{
     transition: background-color 0.2s ease;
     cursor: pointer;
 }
+
